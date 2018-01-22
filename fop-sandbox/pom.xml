@@ -137,10 +137,5 @@
       </testResource>
     </testResources>
   </build>
-  <parent>
-		<groupId>com.metafour.maven</groupId>
-		<artifactId>netcourier-parent</artifactId>
-		<version>2.0.0</version>
-		<relativePath>../netcourier-parent/</relativePath>
-	</parent>
+ 
 </project>
